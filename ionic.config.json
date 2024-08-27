@@ -1,0 +1,7 @@
+{
+  "name": "proyectoxd",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
